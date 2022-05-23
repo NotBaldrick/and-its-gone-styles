@@ -320,7 +320,7 @@ h6 {
 }
 .bg-banner {
   --tw-bg-opacity: 1;
-  background-color: rgb(40 119 168 / var(--tw-bg-opacity));
+  background-color: #2565C7;
 }
 .bg-white {
   --tw-bg-opacity: 1;
@@ -397,7 +397,7 @@ h6 {
   justify-content: center;
   gap: 0.5rem;
   --tw-bg-opacity: 1;
-  background-color: rgb(40 119 168 / var(--tw-bg-opacity));
+  background-color: #2565C7;
   padding: 0.5rem;
   --tw-text-opacity: 1;
   color: rgb(229 231 235 / var(--tw-text-opacity));
